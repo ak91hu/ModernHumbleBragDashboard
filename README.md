@@ -9,7 +9,7 @@
 
 A fully automated, interactive analytics dashboard for Strava data. It visualizes year-over-year progression, tracks gamified challenges, and scientifically calculates how many slices of pizza you've earned.
 
-**👀 Live Demo:** [LINK TO YOUR RENDER APP HERE] *(e.g., https://humblebrag-dashboard.onrender.com)*
+**👀 Live Demo:** https://modernhumblebragdashboard.onrender.com/
 
 ---
 
