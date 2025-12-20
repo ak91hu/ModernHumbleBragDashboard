@@ -1,4 +1,5 @@
 id,name,start_date,distance_km,moving_time_min,elapsed_time,elevation_m,type,average_speed_kmh,max_speed,pr_count,kudos,kilojoules,average_heartrate,max_heartrate
+16782803991,Morning Weight Training,2025-12-19 06:58:55+00:00,0.0,61.85,61.85,0.0,root='WeightTraining',0.0,0.0,0,19,0.0,130.4,182.0
 16738942138,Morning Ride,2025-12-14 07:10:24+00:00,59.73,182.5,184.16666666666666,368.5,root='Ride',19.638,12.068,0,24,1737.8,85.8,151.0
 16727928542,Köd 🫥😶‍🌫️🫥,2025-12-13 07:07:45+00:00,12.621799999999999,41.13333333333333,42.516666666666666,163.1,root='Ride',18.4104,11.688,0,31,420.8,80.7,112.0
 16727928508,Morning Weight Training,2025-12-13 07:00:48+00:00,0.0,41.4,41.4,0.0,root='WeightTraining',0.0,0.0,0,26,0.0,156.0,189.0
