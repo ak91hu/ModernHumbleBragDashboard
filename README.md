@@ -2,6 +2,8 @@
 
 **Every move counts.** A modern, bilingual Strava dashboard built with Python, Dash and Plotly. This version extends [ModernHumbleBragDashboard](https://github.com/ak91hu/ModernHumbleBragDashboard) and keeps its CSV data pipeline and Render/Gunicorn deployment model.
 
+**Live dashboard:** [Open Humblebrag](https://modernhumblebragdashboard.onrender.com/).
+
 ## What's new
 
 - A forest-green and lime visual identity, custom mountain illustration, locally hosted fonts, and a responsive layout.
@@ -36,7 +38,7 @@ python -m pip install -r requirements.txt
 python app.py
 ```
 
-Open **http://127.0.0.1:8050**. Set `PORT` to use another port; set `DASH_DEBUG=1` for development hot reload. The app binds to loopback when started directly. The production `gunicorn app:server` command continues to work.
+Set `PORT` to use another port; set `DASH_DEBUG=1` for development hot reload. The app binds to loopback when started directly. The production `gunicorn app:server` command continues to work.
 
 In the prepared Windows workspace, `./start.ps1` uses the local portable Python runtime when present; otherwise it uses the Python installation on PATH. `.runtime/` is local tooling and is excluded from source packages.
 
