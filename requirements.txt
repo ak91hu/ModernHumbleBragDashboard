@@ -1,6 +1,5 @@
-dash
-dash-bootstrap-components
-pandas
-plotly
-stravalib
-gunicorn
+dash>=3.1,<4
+pandas>=2.2,<3
+plotly>=6,<7
+stravalib>=2.4,<3
+gunicorn>=23,<27; sys_platform != 'win32'
